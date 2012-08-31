@@ -1,3 +1,11 @@
+Note: You shouldn't clone this one.
+Please use the original version from rubbyrussel.
+
+This is just for my convenience.
+
+Rgds,
+tov 8/12
+
 A handful of functions, auto-complete helpers, and stuff that makes you shout...
 
 
